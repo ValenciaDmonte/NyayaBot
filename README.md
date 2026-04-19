@@ -1,4 +1,5 @@
 # ⚖️ NyayaBot — AI Legal Assistant for Indian Citizens
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/66ef3d51-7328-47dc-83ee-c848ac0295fc" />
 
 > Ask legal questions in **Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, or English**.
 > Get cited, grounded answers from verified Indian law — not AI guesses.
