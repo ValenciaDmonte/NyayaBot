@@ -6,7 +6,7 @@
 **⚠️ Disclaimer: NyayaBot provides legal information, not legal advice. Always consult a qualified lawyer for your specific situation.**
 
 ---
-#🚀**Features**
+## 🚀**Features**
 
 ⚖️ **Legal Help in Your Language**
 NyayaBot allows users to ask legal questions in multiple Indian languages including Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, and English.
@@ -14,7 +14,6 @@ No legal jargon barriers—get answers in the language you’re most comfortable
 
 
 📚 **Grounded in Verified Indian Law**
-
 Unlike generic AI tools, NyayaBot provides answers strictly based on official Indian legal sources.
 Each response includes:
 
@@ -47,11 +46,10 @@ NyayaBot automatically detects outdated laws and suggests updated ones.
 For example:
 
 Replaces IPC with BNS 2023 where applicable
-
 This keeps users aligned with the latest legal framework.
 
-👩‍⚖️ **Find Nearby Lawyers**
 
+👩‍⚖️ **Find Nearby Lawyers**
 Based on your query, NyayaBot can recommend the nearest relevant lawyers using location-based suggestions.
 Helps bridge the gap between legal knowledge → legal action.
 
@@ -62,7 +60,6 @@ Upload any legal notice and NyayaBot will:
 Break it down into simple language
 Highlight key points
 Explain implications clearly
-
 All while ensuring privacy (documents are not stored).
 
 🚨 **Instant Fraud Detection**
@@ -72,10 +69,9 @@ NyayaBot analyzes suspicious legal notices and flags:
 ❗ Fake claims
 ⚠️ Inconsistencies
 💸 Potential scams
-
 So users don’t fall victim to legal fraud or intimidation tactics.
 
-⚡ Fast, Free & Accessible
+⚡ **Fast, Free & Accessible**
 No phone number required
 Real-time responses
 Designed for ease of use and accessibility
