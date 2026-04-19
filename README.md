@@ -6,70 +6,100 @@
 **⚠️ Disclaimer: NyayaBot provides legal information, not legal advice. Always consult a qualified lawyer for your specific situation.**
 
 ---
-## 🚀**Features**
+This already looks great—you just need clean spacing + consistent structure to make it **README-ready and super readable** 😄✨
+Here’s a polished version:
 
-⚖️ **Legal Help in Your Language**
+---
 
-NyayaBot allows users to ask legal questions in multiple Indian languages including Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, and English.
-No legal jargon barriers—get answers in the language you’re most comfortable with.
+## 🚀 Features
 
+---
 
-📚 **Grounded in Verified Indian Law**
-Unlike generic AI tools, NyayaBot provides answers strictly based on official Indian legal sources.
+### ⚖️ Legal Help in Your Language
+
+NyayaBot allows users to ask legal questions in multiple Indian languages including **Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, and English**.
+
+No legal jargon barriers — get answers in the language you’re most comfortable with.
+
+---
+
+### 📚 Grounded in Verified Indian Law
+
+Unlike generic AI tools, NyayaBot provides answers strictly based on **official Indian legal sources**.
+
 Each response includes:
 
-📖 Exact Act name
-🔢 Section number
-📅 Relevant amendments
+* 📖 Exact **Act name**
+* 🔢 **Section number**
+* 📅 Relevant **amendments**
 
-This ensures accuracy, reliability, and zero hallucination.
+This ensures **accuracy, reliability, and zero hallucination**.
 
-🔍 **AI-Powered Legal Search**
+---
+
+### 🔍 AI-Powered Legal Search
 
 NyayaBot intelligently searches across verified legal databases instead of the open internet.
+
 This enables:
 
-Precise legal interpretations
-Context-aware responses
-Faster resolution of queries
-🧾 Get Cited Legal Answers
+* Precise legal interpretations
+* Context-aware responses
+* Faster resolution of queries
+
+---
+
+### 🧾 Get Cited Legal Answers
 
 Every answer is backed by proper legal citations, making it useful for:
 
-📘 Students
-⚖️ Legal professionals
-🧠 Research work
+* 📘 Students
+* ⚖️ Legal professionals
+* 🧠 Research work
 
-No vague explanations—only fact-based legal insights.
+No vague explanations — only **fact-based legal insights**.
 
-👩‍⚖️ **Find Nearby Lawyers**
+---
 
-Based on your query, NyayaBot can recommend the nearest relevant lawyers using location-based suggestions.
-Helps bridge the gap between legal knowledge → legal action.
+### 👩‍⚖️ Find Nearby Lawyers
 
-📄 Explain Legal Notices Instantly
+Based on your query, NyayaBot can recommend the **nearest relevant lawyers** using location-based suggestions.
+
+Helps bridge the gap between **legal knowledge → legal action**.
+
+---
+
+### 📄 Explain Legal Notices Instantly
 
 Upload any legal notice and NyayaBot will:
 
-Break it down into simple language
-Highlight key points
-Explain implications clearly
-All while ensuring privacy (documents are not stored).
+* Break it down into simple language
+* Highlight key points
+* Explain implications clearly
 
-🚨 **Instant Fraud Detection**
+All while ensuring **privacy (documents are not stored)**.
+
+---
+
+### 🚨 Instant Fraud Detection
 
 NyayaBot analyzes suspicious legal notices and flags:
 
-❗ Fake claims
-⚠️ Inconsistencies
-💸 Potential scams
-So users don’t fall victim to legal fraud or intimidation tactics.
+* ❗ Fake claims
+* ⚠️ Inconsistencies
+* 💸 Potential scams
 
-⚡ **Fast, Free & Accessible**
-No phone number required
-Real-time responses
-Designed for ease of use and accessibility
+So users don’t fall victim to **legal fraud or intimidation tactics**.
 
+---
+
+### ⚡ Fast, Free & Accessible
+
+* No phone number required
+* Real-time responses
+* Designed for **ease of use and accessibility**
+
+---
 
 ## What It Does
 
