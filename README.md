@@ -41,15 +41,8 @@ Every answer is backed by proper legal citations, making it useful for:
 
 No vague explanations—only fact-based legal insights.
 
-♻️ **Repealed Law Detection**
-NyayaBot automatically detects outdated laws and suggests updated ones.
-For example:
-
-Replaces IPC with BNS 2023 where applicable
-This keeps users aligned with the latest legal framework.
-
-
 👩‍⚖️ **Find Nearby Lawyers**
+
 Based on your query, NyayaBot can recommend the nearest relevant lawyers using location-based suggestions.
 Helps bridge the gap between legal knowledge → legal action.
 
