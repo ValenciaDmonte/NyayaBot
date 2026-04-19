@@ -7,9 +7,11 @@
 
 ---
 #🚀**Features**
+
 ⚖️ **Legal Help in Your Language**
 NyayaBot allows users to ask legal questions in multiple Indian languages including Hindi, Tamil, Telugu, Bengali, Marathi, Kannada, and English.
 No legal jargon barriers—get answers in the language you’re most comfortable with.
+
 
 📚 **Grounded in Verified Indian Law**
 
