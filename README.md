@@ -6,10 +6,7 @@
 **⚠️ Disclaimer: NyayaBot provides legal information, not legal advice. Always consult a qualified lawyer for your specific situation.**
 
 ---
-This already looks great—you just need clean spacing + consistent structure to make it **README-ready and super readable** 😄✨
-Here’s a polished version:
 
----
 
 ## 🚀 Features
 
