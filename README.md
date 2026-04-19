@@ -253,43 +253,7 @@ Free, zero new API keys, Chrome/Edge support all major Indian languages with the
 
 ---
 
-## Voice I/O Support
 
-| Feature | Chrome | Edge | Firefox | Safari |
-|---------|--------|------|---------|--------|
-| Voice Input (mic) | ✅ | ✅ | ❌ | ❌ |
-| Voice Output (speak) | ✅ | ✅ | ✅ | ✅ |
-
-Indian language support in Chrome voice input: Hindi (hi-IN), Tamil (ta-IN), Telugu (te-IN), Bengali (bn-IN), Marathi (mr-IN), Kannada (kn-IN).
-
----
-
-## Deployment
-
-### Backend → Render
-
-1. Create a new **Web Service** on Render
-2. Connect your GitHub repo
-3. Settings:
-   - Build command: `cd backend && npm install`
-   - Start command: `node src/server.js`
-   - Runtime: Node 22
-   - Region: Singapore (closest to India)
-4. Add all `.env` variables in Render's Environment tab
-5. Set `NODE_ENV=production`
-
-### Frontend → Vercel
-
-1. Import your GitHub repo on Vercel
-2. Settings:
-   - Framework: Vite
-   - Root directory: `frontend`
-   - Build command: `npm run build`
-   - Output directory: `dist`
-3. Add environment variable:
-   - `VITE_API_URL` = your Render backend URL
-
----
 
 ## Nightly Law Updates
 
@@ -303,15 +267,6 @@ To check logs: `GET /api/admin/sync-logs` (admin JWT required).
 
 ---
 
-## Roadmap
-
-- [x] Phase 1: MVP — RAG query, auth, basic chat UI
-- [x] Phase 2: Multilingual, citation cards, voice I/O, cron updates
-- [ ] Phase 3: Legal Notice Generator (PDF download)
-- [ ] Phase 3: Legal document upload + analysis
-- [ ] Phase 4: Nearest lawyer on Google Maps
-
----
 
 ## License
 
